@@ -1,0 +1,8 @@
+avengers  100 1 2h30 Action
+rire_du_coeur  50 2 1h45 Comedie
+te_amo  80 3  2h00 Drame
+encanto  120 4  2h15 Thriller
+welcome_to_jungle 200 5 3h00 Aventure
+
+
+
